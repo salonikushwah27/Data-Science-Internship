@@ -48,6 +48,21 @@ Numpy Fundamentals: Learned how to create and work with Numpy arrays, including 
 ### Output
 Successfully created and printed different types of Numpy arrays (1D, 2D, 3D), performed mathematical operations between arrays, and calculated statistical values like sum, mean, max, and min using Numpy functions.
 
+## Day 4
+
+### Task
+Pandas Basics: Imported Pandas, loaded a CSV dataset, and viewed rows, columns, and dataset information.
+
+### Topics Covered
+- Importing the Pandas library
+- Loading a CSV dataset using `pd.read_csv()`
+- Viewing rows using `head()` and `tail()`
+- Viewing column names using `columns`
+- Viewing dataset information using `info()`, `shape`, and `describe()`
+
+### Output
+Wrote and ran `Day-4_DatasetLoad.py`, successfully loading `student_sales_data.csv` and printing dataset rows, columns, shape, and statistical summary.
+
 ### Author
 [Saloni Kushwah]
 
