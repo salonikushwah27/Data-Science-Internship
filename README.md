@@ -63,6 +63,22 @@ Pandas Basics: Imported Pandas, loaded a CSV dataset, and viewed rows, columns, 
 ### Output
 Wrote and ran `Day-4_DatasetLoad.py`, successfully loading `student_sales_data.csv` and printing dataset rows, columns, shape, and statistical summary.
 
+---
+
+## Day 5
+
+### Task
+Data Cleaning: Cleaned a raw dataset using Pandas — handled missing values, removed duplicate records, and corrected data types.
+
+### Steps Performed
+- Loaded the dataset using `pd.read_csv()`
+- Checked and handled missing values using `isnull()` and `dropna()`
+- Identified and removed duplicate records using `duplicated()` and `drop_duplicates()`
+- Verified and corrected column data types using `dtypes`
+
+### Output
+Produced a cleaned dataset free of missing values, duplicate records, and incorrect data types — ready for further analysis.
+
 ### Author
 [Saloni Kushwah]
 
