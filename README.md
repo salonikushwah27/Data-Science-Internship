@@ -79,6 +79,21 @@ Data Cleaning: Cleaned a raw dataset using Pandas — handled missing values, re
 ### Output
 Produced a cleaned dataset free of missing values, duplicate records, and incorrect data types — ready for further analysis.
 
+## Day 6
+
+### Task
+Data Filtering: Filtered and sorted the cleaned dataset using Pandas — extracted specific rows and columns, and sorted records based on a key column.
+
+### Steps Performed
+- Filtered rows based on a condition using boolean indexing (`df[df["Quantity"] > 3]`)
+- Selected specific columns of interest (`OrderID`, `Quantity`, `Price`)
+- Sorted the dataset by `Price` in descending order using `sort_values()`
+- Saved the filtered dataset to a new CSV file using `to_csv()`
+
+### Output
+Produced a filtered and sorted dataset (`filtered_dataset.csv`) containing only the relevant rows and columns, ordered by price.
+
+
 ### Author
 [Saloni Kushwah]
 
