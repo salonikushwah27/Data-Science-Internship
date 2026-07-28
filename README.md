@@ -93,6 +93,22 @@ Data Filtering: Filtered and sorted the cleaned dataset using Pandas — extract
 ### Output
 Produced a filtered and sorted dataset (`filtered_dataset.csv`) containing only the relevant rows and columns, ordered by price.
 
+## Day 7
+
+### Task
+Data Analysis: Performed statistical analysis on the cleaned dataset using Pandas — calculated total, average, minimum, maximum, and count of key columns.
+
+### Steps Performed
+- Loaded the dataset using `pd.read_csv()`
+- Calculated total price and total quantity using `sum()`
+- Calculated average price and average quantity using `mean()`
+- Found minimum price and quantity using `min()`
+- Found maximum price and quantity using `max()`
+- Counted total orders using `count()`
+- Generated an overall statistical summary using `df.describe()`
+
+### Output
+Produced key statistical insights (total, average, minimum, maximum, and count) along with a complete summary of the dataset using `describe()`.
 
 ### Author
 [Saloni Kushwah]
