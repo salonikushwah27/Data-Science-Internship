@@ -110,6 +110,21 @@ Data Analysis: Performed statistical analysis on the cleaned dataset using Panda
 ### Output
 Produced key statistical insights (total, average, minimum, maximum, and count) along with a complete summary of the dataset using `describe()`.
 
+## Day 8
+
+### Task
+Data Visualization: Created visual representations of the cleaned dataset using Matplotlib — bar chart, line chart, and pie chart — to understand patterns and distributions in the data.
+
+### Steps Performed
+- Imported `matplotlib.pyplot as plt` alongside Pandas
+- Created a bar chart of `Quantity` for the first 10 orders using `plt.bar()`
+- Created a line chart of `Price` trend for the first 20 orders using `plt.plot()` with markers
+- Created a pie chart showing the distribution of `Quantity` values using `plt.pie()` with percentage labels (`autopct`)
+- Added titles, axis labels, and legends to each chart for clarity
+
+### Output
+Produced three charts (bar, line, and pie) giving a clear visual understanding of order quantities, price trends, and quantity distribution across the dataset.
+
 ### Author
 [Saloni Kushwah]
 
