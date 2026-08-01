@@ -141,6 +141,19 @@ Dashboard Tasks: Combined all charts and analysis into a single Jupyter Notebook
 ### Output
 Produced a mini dashboard within a single Jupyter Notebook, combining statistical summaries and all three chart types (bar, line, pie) into one cohesive, easy-to-navigate view.
 
+## Day 10
+
+### Task
+Export Data Tasks: Exported the cleaned and filtered dataset into a new CSV file, making the final processed data ready for use and submission.
+
+### Steps Performed
+- Loaded the filtered dataset created in Day 6
+- Exported the dataset to a new file named final_cleaned_dataset.csv using df.to_csv()
+- Verified the exported file by reloading it with pd.read_csv() and checking the first few rows
+- Confirmed the new CSV file appeared correctly in the project folder
+
+### Output
+Produced a final exported CSV file (final_cleaned_dataset.csv) containing the cleaned and filtered dataset, ready for submission and further use.
 
 ### Author
 [Saloni Kushwah]
