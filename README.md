@@ -125,6 +125,23 @@ Data Visualization: Created visual representations of the cleaned dataset using 
 ### Output
 Produced three charts (bar, line, and pie) giving a clear visual understanding of order quantities, price trends, and quantity distribution across the dataset.
 
+## Day 9
+
+### Task
+Dashboard Tasks: Combined all charts and analysis into a single Jupyter Notebook dashboard, bringing together the data cleaning, statistical analysis, and visualizations from previous days into one unified view.
+
+### Steps Performed
+- Imported the cleaned dataset and re-ran key statistical calculations (total, average, min, max, count)
+- Combined the bar chart, line chart, and pie chart from Day 8 into a single notebook layout
+- Used `plt.subplots()` to arrange multiple charts in a grid for a dashboard-style view
+- Added markdown cells with headings and brief explanations above each chart section
+- Organized the notebook flow: data overview → statistics → visualizations, for readability
+- Verified all cells run top-to-bottom without errors
+
+### Output
+Produced a mini dashboard within a single Jupyter Notebook, combining statistical summaries and all three chart types (bar, line, pie) into one cohesive, easy-to-navigate view.
+
+
 ### Author
 [Saloni Kushwah]
 
