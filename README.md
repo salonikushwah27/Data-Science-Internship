@@ -155,6 +155,19 @@ Export Data Tasks: Exported the cleaned and filtered dataset into a new CSV file
 ### Output
 Produced a final exported CSV file (final_cleaned_dataset.csv) containing the cleaned and filtered dataset, ready for submission and further use.
 
+## Day 11
+
+### Task
+Business Insights Tasks: Wrote at least five observations from the dataset based on statistical analysis performed in Day 7.
+
+### Steps Performed
+- Reviewed key statistics (total, average, min, max, median) from the cleaned dataset
+- Analyzed price and quantity distribution across 200 orders
+- Documented six business insights highlighting order patterns, pricing trends, and revenue distribution
+
+### Output
+Produced a written insight report summarizing key business observations derived from the dataset.
+
 ### Author
 [Saloni Kushwah]
 
