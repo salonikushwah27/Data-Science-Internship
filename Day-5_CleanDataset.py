@@ -15,9 +15,8 @@ print("Duplicates after:", df.duplicated().sum())
 
 # 3. Correct data types
 print(df.dtypes)                  # check current data types
-# Example fixes (adjust column names as per your dataset):
-# df["OrderID"] = df["OrderID"].astype(int)
-# df["Price"] = df["Price"].astype(float)
+df["OrderID"] = df["OrderID"].astype(int)
+df["Price"] = df["Price"].astype(float)
 
 # Final check
 print(df.info())

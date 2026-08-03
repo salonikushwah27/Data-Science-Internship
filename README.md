@@ -168,6 +168,21 @@ Business Insights Tasks: Wrote at least five observations from the dataset based
 ### Output
 Produced a written insight report summarizing key business observations derived from the dataset.
 
+## Day 12
+
+### Task
+Project Improvement Tasks: Improved notebook formatting, comments, charts, and code readability.
+
+### Steps Performed
+- Organized the notebook into clear sections using Markdown headers (Load Dataset, Missing Values, Duplicates, Data Types, Visualization, Export, Business Insights)
+- Added descriptive comments explaining the purpose of each code block
+- Improved chart formatting with titles, axis labels, and consistent styling
+- Renamed variables and cleaned up code for better readability
+- Removed unused or duplicate cells and verified the notebook runs top to bottom without errors
+
+### Output
+Produced a polished, professional notebook (Day-12_ProjectImprovement.ipynb) ready for GitHub upload.
+
 ### Author
 [Saloni Kushwah]
 
