@@ -183,6 +183,22 @@ Project Improvement Tasks: Improved notebook formatting, comments, charts, and c
 ### Output
 Produced a polished, professional notebook (Day-12_ProjectImprovement.ipynb) ready for GitHub upload.
 
+## Day 13
+
+### Task
+GitHub Tasks: Upload the notebook, dataset, charts and README.md to GitHub.
+
+### Steps Performed
+- Created a new GitHub repository (Codomax-Data-Analytics-Internship)
+- Uploaded all Python files (Day-1 to Day-7) and Jupyter notebooks (Day-8 to Day-12)
+- Uploaded raw and cleaned datasets (student_sales_data.csv, filtered_dataset.csv, final_cleaned_dataset.csv)
+- Uploaded the README.md file with complete project documentation
+- Verified all files are visible and properly organized on the GitHub repository
+
+### Output
+Project successfully made available on GitHub with all notebooks, datasets, charts, and documentation.
+
+
 ### Author
 [Saloni Kushwah]
 
